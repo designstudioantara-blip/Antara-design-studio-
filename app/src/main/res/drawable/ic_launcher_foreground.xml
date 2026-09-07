@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <group>
+        <!-- Left Thin Stem of 'A' -->
+        <path
+            android:strokeColor="#F3E5AB"
+            android:strokeWidth="2.8"
+            android:strokeLineCap="square"
+            android:pathData="M32,74 L52,32" />
+
+        <!-- Right Faceted Gold Main Leg with 3D Bevel -->
+        <!-- Primary Gold Base -->
+        <path
+            android:fillColor="#D4AF37"
+            android:pathData="M52,32 L70,68 L64,68 L52,42 Z" />
+        <!-- Highlight Gold Bevel Edge -->
+        <path
+            android:fillColor="#FFF0B3"
+            android:pathData="M52,32 L55,32 L74,68 L70,68 Z" />
+        <!-- Bottom Serif foot on right leg -->
+        <path
+            android:fillColor="#D4AF37"
+            android:pathData="M60,68 L76,68 L76,70 L60,70 Z" />
+
+        <!-- Horizontal Gold Crossbar extending rightward -->
+        <path
+            android:strokeColor="#D4AF37"
+            android:strokeWidth="2.6"
+            android:strokeLineCap="round"
+            android:pathData="M43,62 L82,62" />
+
+        <!-- Small Luxury Gold Architectural Accent Node -->
+        <path
+            android:fillColor="#F3E5AB"
+            android:pathData="M32,74 A 1.8,1.8 0 1,0 32,70.4 A 1.8,1.8 0 1,0 32,74 Z" />
+        <path
+            android:strokeColor="#40D4AF37"
+            android:strokeWidth="0.8"
+            android:pathData="M24,78 C30,72 38,74 44,78" />
+    </group>
+</vector>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="100">
+
+    <!-- Diagonal architectural gold trim (top left) -->
+    <path
+        android:strokeColor="#40D4AF37"
+        android:strokeWidth="1.2"
+        android:pathData="M0,20 L30,0" />
+    <path
+        android:strokeColor="#20D4AF37"
+        android:strokeWidth="0.8"
+        android:pathData="M0,32 L48,0" />
+
+    <!-- Signature Antara 'A' Monogram -->
+    <!-- Left thin architectural stem -->
+    <path
+        android:strokeColor="#E6C26D"
+        android:strokeWidth="2.4"
+        android:pathData="M24,78 L46,22" />
+
+    <!-- Right thick faceted gold leg with 3D gradient look -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M46,22 L60,48 L56,48 L46,27 Z" />
+    <path
+        android:fillColor="#F3E5AB"
+        android:pathData="M46,22 L49,22 L63,48 L59,48 Z" />
+
+    <!-- Crossbar and extended baseline bar -->
+    <path
+        android:strokeColor="#D4AF37"
+        android:strokeWidth="2.2"
+        android:pathData="M37,52 L175,52" />
+
+    <!-- Script accent dots & curves -->
+    <path
+        android:fillColor="#F3E5AB"
+        android:pathData="M20,62 C20,60 22,58 24,60 Z" />
+
+    <!-- Decorative architectural node lines -->
+    <path
+        android:strokeColor="#30D4AF37"
+        android:strokeWidth="0.8"
+        android:pathData="M15,65 C30,55 50,60 70,68" />
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M70,68 A 1.5,1.5 0 1,0 70,65 A 1.5,1.5 0 1,0 70,68 Z" />
+
+    <!-- Diagonal architectural gold trim (bottom right) -->
+    <path
+        android:strokeColor="#40D4AF37"
+        android:strokeWidth="1.2"
+        android:pathData="M170,100 L200,80" />
+    <path
+        android:strokeColor="#20D4AF37"
+        android:strokeWidth="0.8"
+        android:pathData="M152,100 L200,68" />
+</vector>

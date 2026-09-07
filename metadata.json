@@ -1,0 +1,7 @@
+{
+  "name": "Antara Design Studio",
+  "description": "Premium luxury interior design and architecture studio client portal, portfolio, and project management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
